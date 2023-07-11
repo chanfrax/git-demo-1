@@ -24,4 +24,4 @@ console.log(a)
 
 我的网站是：[百度地址](http://baidu.com)
 
-![图片](勾选.png)
+![魈](魈.jpg)
